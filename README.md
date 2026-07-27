@@ -83,3 +83,5 @@ Built-in health checks at `/health/` and metrics at `/metrics/` (Prometheus form
 ## License
 
 MIT License - see LICENSE file for details.
+
+# PR Merge: 2026-07-27 08:04:02
